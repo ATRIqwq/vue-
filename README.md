@@ -1,6 +1,8 @@
 # vue-
-vue课程学完做的一个小练习
+vue课程学完做的一个小练习，里面还有一些功能，界面待完善
 
+
+#里面用到的API
 ###  1. 获取Json Web Token（JWT）
 
 - 地址：https://app165.acapp.acwing.com.cn/api/token/
